@@ -233,7 +233,7 @@ In your README, find the Header. It should begin with a hashtag `#`.
 
 Please edit it to include your name and your partner's name. Make sure you keep the `#` so that it still displays as a header! Something like:
 
-`# Malin's GitAndGitHub repo`
+`# Jake and Eric's GitAndGitHub repo`
 
 Save this file (Cmd/Ctrl-S or File -> Save) and notice how it shows up in your Git tab. It now has a blue “M”: GitHub is already tracking this file line-by-line, so it knows that something is different: it’s Modified with an M.
 
